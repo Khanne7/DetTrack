@@ -16,7 +16,7 @@ Archivos necesarios:
 - model/
 - videos/
 - detector_tracker.py
-- net.py
+- darknet.py
 - util.py
 - pallete
 
